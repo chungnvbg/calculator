@@ -1,6 +1,6 @@
 class Add {
     operate(numberOne , numberTwo) {
-        return parseInt(numberOne) + parseInt(numberTwo) ;
+        return numberOne + numberTwo ;
     }
 }
 
